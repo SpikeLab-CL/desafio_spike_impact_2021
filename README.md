@@ -35,7 +35,7 @@ Para evaluar la efectividad de esta herramienta en la campaña, se diseñó el s
 
 La campaña se ejecutó para los dos grupos de tratamiento, con una inversión en marketing de $2 MM CLP para cada grupo.
 
-En el archivo [experiment_results.csv](https://github.com/SpikeLab-CL/desafio_spike_impact_2021/raw/main/experiment_results.csv) tienes los resultados de conversión y venta durante la campaña para cada uno de los clientes seleccionados.
+En el archivo [experiment_results.csv](https://github.com/SpikeLab-CL/desafio_spike_impact_2021/raw/main/experiment_results.zip) tienes los resultados de conversión y venta durante la campaña para cada uno de los clientes seleccionados.
 
 **Responde**:
 
