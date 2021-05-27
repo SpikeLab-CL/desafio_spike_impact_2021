@@ -8,6 +8,8 @@
 5. Para entregar el desafío, debes subir los archivos PDF con tus respuestas en este link: [https://forms.gle/RVEpGCJS9MFJq58v6](https://forms.gle/RVEpGCJS9MFJq58v6)
 6. Habilitamos un canal en Slack por si tienen dudas y para que todos puedan colaborar entre sí. Ingresa en [https://join.slack.com/t/spikedesafioi-v9f8645/shared_invite/zt-qxqu974z-FwgC68UHnnMLv6JqZmzpwQ](https://join.slack.com/t/spikedesafioi-v9f8645/shared_invite/zt-qxqu974z-FwgC68UHnnMLv6JqZmzpwQ)
 
+Estas mismas instrucciones estan en version PDF en el archivo [Desafio_Impact_Lead_2021.pdf](https://github.com/SpikeLab-CL/desafio_spike_impact_2021/raw/main/Desafio_Impact_Lead_2021.pdf)
+
 ## Pregunta 1
 
 Un grupo de científicos chilenos ha descubierto que es capaz de hacer lo mismo que la vacuna Pfizer con una pastilla que se toma por vía oral y en una sola dosis. Como parte del protocolo para que este método sea aprobado te piden a ti que les ayudes a diseñar un experimento en la República de Palaos (archipiélago considerado uno de los mejores destinos del mundo para bucear), lugar donde no hay contagiados por coronavirus. 
