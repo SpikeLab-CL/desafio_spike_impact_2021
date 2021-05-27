@@ -14,7 +14,7 @@ Un grupo de científicos chilenos ha descubierto que es capaz de hacer lo mismo 
 
 Esta pastilla se encuentra en su etapa final y para que sea aprobada solo necesita una última prueba que certifique su efectividad.
 
-Responde:
+**Responde**:
 
 a. Explica cómo diseñarías este experimento (realiza todos los supuestos que necesites).
 
