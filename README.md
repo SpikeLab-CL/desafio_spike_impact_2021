@@ -6,6 +6,7 @@
 3. Las preguntas tienen distintos grados de dificultad, por lo que intenta responder hasta donde puedas. Si por algún motivo hay alguna parte que no lograste completar, no hay problema.
 4. Tendrás hasta el miércoles 2 de junio a las 23:59 para enviar tus respuestas.
 5. Para entregar el desafío, debes subir los archivos PDF con tus respuestas en este link: [https://forms.gle/RVEpGCJS9MFJq58v6](https://forms.gle/RVEpGCJS9MFJq58v6)
+6. Habilitamos un canal en Slack por si tienen dudas y para que todos puedan colaborar entre sí. Ingresa en [https://join.slack.com/t/spikedesafioi-v9f8645/shared_invite/zt-qxqu974z-FwgC68UHnnMLv6JqZmzpwQ](https://join.slack.com/t/spikedesafioi-v9f8645/shared_invite/zt-qxqu974z-FwgC68UHnnMLv6JqZmzpwQ)
 
 ## Pregunta 1
 
